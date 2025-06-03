@@ -1,0 +1,20 @@
+{
+  "name": "bible-guess-game",
+  "version": "1.0.0",
+  "main": "bible-guess-game.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "git commit -am new && surge ./ && npm publish"
+  },
+  "keywords": ["bible", "guess", "book", "game"],
+  "author": "Biensure",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "lit": "^3.3.0",
+    "sakura-themes": "^1.0.2"
+  }
+}
