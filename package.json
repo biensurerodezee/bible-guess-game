@@ -1,7 +1,7 @@
 {
-  "name": "bible-guess-game",
+  "name": "bible-book-guess-game",
   "version": "1.0.0",
-  "main": "bible-guess-game.js",
+  "main": "bible-book-guess-game.js",
   "scripts": {
     "dev": "vite",
     "test": "echo \"Error: no test specified\" && exit 1",
