@@ -22,3 +22,4 @@ Then in your index.html:
 </html>
 ```
 make sure you have the right path of both /bible.svg and ./bible-book-guess-game.js
+# karton-js
